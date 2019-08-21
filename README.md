@@ -1,6 +1,4 @@
 # Inkerton_Team4
-
-# INkerton
 인커톤(인터페이스 해커톤) repository
 ***
 <2019 Sejong Univ - Interface Hackerton (INkerton) Interface App >
