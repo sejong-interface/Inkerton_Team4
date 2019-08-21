@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Interface</string>
+    <string name="title_activity_notice_acitivty">NoticeAcitivty</string>
+    <string name="title_activity_calender">CalenderActivity</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="title_activity_notice_add_db">NoticeAddDB</string>
+    <string name="title_activity_check">CheckActivity</string>
+</resources>
